@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lockecd/terrestrial-paleoclimate-2022/HEAD)
+
 # Final Project
 
 
